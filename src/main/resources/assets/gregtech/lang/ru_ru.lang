@@ -6211,3 +6211,5 @@ gregtech.multiblock.recipe_progress.seconds=Прогресс: %,3.2fсек / %,3
 gregtech.multiblock.large_combustion_engine.fuel_none=§cНет топлива!
 gregtech.multiblock.large_combustion_engine.oxygen_none=§cНет присадки!
 gregtech.multiblock.large_combustion_engine.dynamo_hatch_full=Выходной разъем полон!
+gregtech.gui.item_lock.tooltip.enabled=Блокировка предметов включена
+gregtech.gui.item_lock.tooltip.disabled=Блокировка предметов выключена
