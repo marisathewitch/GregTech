@@ -749,7 +749,7 @@ metaitem.fluid_filter.tooltip=Фильтрует §fЖидкость§7 как �
 metaitem.smart_item_filter.name=Умный предметный фильтр
 metaitem.smart_item_filter.tooltip=Фильтрует §fПредметы§7 на основе §fРецептов машин§7 как §fУлучшение механизма§7./nМожет использоваться как улучшение §fКонвейера§7 и §fРобот. манипулятора§7.
 metaitem.cover.controller.name=Контроллер механизма (Улучшение)
-metaitem.cover.controller.tooltip=§fВключает§7/§fВыключает§7 машины как §fУлучшение механизма§7.
+metaitem.cover.controller.tooltip=§fВключает§7/§fВыключает§7 машины как §fУлучшение механизма§7 с помощью Редстоуна.
 metaitem.cover.activity.detector.name=Детектор активности (Улучшение)
 metaitem.cover.activity.detector.tooltip=Выдает §fПрогресс Работы§7 Сигналом Красного камня как §fУлучшение механизма§7.
 metaitem.cover.activity.detector_advanced.name=Улучшенный детектор активности (Улучшение)
@@ -4974,7 +4974,7 @@ gregtech.multiblock.large_boiler.rate_tooltip=§7Производит §f%d Л �
 gregtech.multiblock.large_boiler.heat_time_tooltip=Занимает §f%,d секунды §7для нагрева
 gregtech.multiblock.large_boiler.explosion_tooltip=Взорвется, если добавить топливо без воды
 gregtech.machine.miner.done=Готово!
-gregtech.machine.miner.working=Работает...
+gregtech.machine.miner.working=Добывает...
 gregtech.machine.miner.invfull=Хранилище заполнено!
 gregtech.machine.miner.needspower=Нужна энергия!
 gregtech.machine.steam_miner.vent=Вентиляция перекрыта!
@@ -6212,3 +6212,9 @@ gregtech.multiblock.large_combustion_engine.oxygen_none=§cНет присадк
 gregtech.multiblock.large_combustion_engine.dynamo_hatch_full=Выходной разъем полон!
 gregtech.gui.item_lock.tooltip.enabled=Блокировка предметов включена
 gregtech.gui.item_lock.tooltip.disabled=Блокировка предметов выключена
+gregtech.machine.miner.mining_pos_x=§bX§r: §a%s§r
+gregtech.machine.miner.mining_pos_y=§bY§r: §a%s§r
+gregtech.machine.miner.mining_pos_z=§bZ§r: §a%s§r
+gregtech.command.benchmark.usage=Использование: /gregtech benchmark <system>
+gregtech.command.benchmark.abort.usage=Использование: /gregtech benchmark abort
+gregtech.command.benchmark.lookup.usage=Использование: /gregtech benchmark lookup <trials> <rate>
