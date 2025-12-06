@@ -6190,7 +6190,6 @@ gregtech.machine.substation_hatch.output_64a.mv.name=Энергетически�
 gregtech.machine.substation_hatch.output_64a.hv.name=Энергетический выходной разъем Подстанции (64A §6HV§r)
 gregtech.multiblock.large_chemical_reactor.description.0=Выполняет рецепты §eХимического реактора§7 и §eБольшого химического реактора§7
 gregtech.machine.miner.mining_at=Сейчас добывает в:
-gregtech.machine.miner.mining_pos=X: %s Y: %s Z: %s
 metaarmor.jetpack.cancel_inertia.disable=Реактивный ранец: компенсация инерции отключена
 metaarmor.hud.cancel_inertia_mode=Компенсация инерции: %s
 gregtech.gui.multiblock.recipe_producing=Производство:
