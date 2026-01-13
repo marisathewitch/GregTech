@@ -1791,3 +1791,4 @@ gregtech.advancement.steam.9_coke_oven.name=Horno de Coque
 gregtech.advancement.steam.9_coke_oven.desc=Construí un Horno de Coque.
 gregtech.machine.coke_oven.name=Horno de Coque
 gregtech.multiblock.coke_oven.description=El Horno de Coque es una estructura multibloque utilizada para conseguir coque y creosota en el principio del juego. No requiere combustible y tiene un tanque interno de 32 baldes para la creosota. Su inventario puede ser accedido a través de una Salida para Horno de Coque.
+for.bees.species.sparkling=Estrella del Nether
