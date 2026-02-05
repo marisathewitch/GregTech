@@ -3769,3 +3769,6 @@ gregtech.material.nitric_oxide=Óxido nítrico
 gregtech.material.iron_iii_chloride=Cloruro de hierro (III)
 gregtech.material.uranium_hexafluoride=Hexafluoruro de uranio
 gregtech.material.enriched_uranium_hexafluoride=Hexafluoruro de uranio enriquecido
+gregtech.material.depleted_uranium_hexafluoride=Hexafluoruro de uranio empobrecido
+gregtech.material.nitrous_oxide=Óxido nitroso
+gregtech.material.ender_pearl=Perla de ender
