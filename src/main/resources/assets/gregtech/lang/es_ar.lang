@@ -1234,7 +1234,7 @@ gregtech.material.niobium_titanium=Niobio-Titanio
 gregtech.material.pyrite=Pirita
 cover.ore_dictionary_filter.compile.eof=** Fin de línea **
 cover.ore_dictionary_filter.preview.everything=<node>cualquier cosa</node>
-cover.ore_dictionary_filter.info=§bAdmite expresiones complejas/n§6a & b§r = AND/n§6a | b§r = OR/n§6a ^ b§r = XOR/n§6! abc§r = NOT/n§6( abc )§r para agruparlos/n§6*§r de comodín (para 0 o más caracteres)/n§6?§r para 1 carácter cualquiera/n§6()§r para comprar con una entrada vacía (incluir objetos que no están en el diccionario de minerales)/n§bPor ejemplo:/n§6dust*Gold | (plate* & !*Double*)/nVa a tomar los distintos polvos de oro de todos los tamaños o todas las placas de cualquier material, pero ninguna de las placas dobles
+cover.ore_dictionary_filter.info=§bAdmite expresiones complejas\n§6a & b§r = AND\n§6a | b§r = OR\n§6a ^ b§r = XOR\n§6! abc§r = NOT\n§6( abc )§r para agruparlos\n§6*§r de comodín (para 0 o más caracteres)\n§6?§r para 1 carácter cualquiera\n§6()§r para comprar con una entrada vacía (incluir objetos que no están en el diccionario de minerales)\n§bPor ejemplo:\n§6dust*Gold | (plate* & !*Double*)\nVa a tomar los distintos polvos de oro de todos los tamaños o todas las placas de cualquier material, pero ninguna de las placas dobles
 cover.ore_dictionary_filter.preview.char.not=<node><logic>o</logic> más de <value>1</value> carácter <logic>o</logic> nada</node>
 cover.ore_dictionary_filter.compile.error.unexpected_token_after_eof=Símbolo inesperado '%s' después del fin de la expresión
 cover.ore_dictionary_filter.preview.chars.not=<node><logic>o</logic> más <logic>o</logic> menos que <value>%s</value> caracteres</node>
@@ -2059,7 +2059,7 @@ gregtech.terminal.app_name.console=Consola de GT
 gregtech.terminal.app_name.battery=Administrador de Batería
 gregtech.terminal.app_name.hardware=Administrador de Hardware
 gregtech.terminal.app_name.multiblock_ar=Ayudín de Multibloques
-gregtech.terminal.app_name.world_prospector=Prospector del Mundos
+gregtech.terminal.app_name.world_prospector=Prospector del Mundo
 gregtech.terminal.app_name.vtank_viewer=Visualizador de Tanques Virtual
 gregtech.terminal.app_name.cape_selector=Selector de Capa
 gregtech.terminal.app_name.teleport=Teletransportador
